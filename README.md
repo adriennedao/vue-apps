@@ -1,6 +1,6 @@
 ## Demo app
 
-- First vue.js app build with Vue ClI
+- First vue.js app build with Vue CLI
 
 > A Vue.js project
 
