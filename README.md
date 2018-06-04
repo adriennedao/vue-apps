@@ -1,6 +1,11 @@
 ## Demo app
 
-- First vue.js app build with Vue CLI
+## Technologies Used:
+  -  Vue CLI
+  -  VueRouter
+  -  bootstrap
+  -  axios
+  -  Rest API
 
 > A Vue.js project
 
